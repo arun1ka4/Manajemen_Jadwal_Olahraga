@@ -1,6 +1,13 @@
 # Manajemen_Jadwal_Latihan_Olahraga
 
 # Deskripsi Program
+Program manajemen jadwal latihan olahraga adalah program berbasis Java yang digunakan user untuk mengatur jadwal latihan olahraga mingguan.
+Fitur program ini terdiri dari:
+1. Tambah jadwal -> Menambahkan jenis latihan serta hari latihan tersebut
+2. Lihat jadwal -> Melihat jadwal latihan yang telah ditambahkan
+3. Update jadwal -> Mengganti jenis latihan dan hari latihan sesuai nomor jadwal
+4. Hapus jadwal -> Menghapus jadwal latihan yang ada sesuai nomor jadwal 
+5. Keluar dari program -> Program berhenti
 
 # Alur Program
 
