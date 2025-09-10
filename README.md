@@ -13,9 +13,21 @@ Fitur program ini terdiri dari:
 
 ## **Package**
 
+<img width="321" height="67" alt="image" src="https://github.com/user-attachments/assets/94338cb7-35f8-476f-a632-9a2e7045c294" />
+
+1. ArrayList
+2. Scanner
+
+<img width="572" height="102" alt="image" src="https://github.com/user-attachments/assets/92676258-9dfe-41a7-8f1a-5a731a413e5a" />
+
+
 ## **Pilih menu == 1**
 
+<img width="587" height="272" alt="image" src="https://github.com/user-attachments/assets/56b59382-69cd-4feb-9e7a-bb686afbabb5" />
+
 User dapat memilih opsi menu yang diinginkan dengan menginput nomor dari opsi menu tersebut.
+
+<img width="537" height="242" alt="image" src="https://github.com/user-attachments/assets/9fe1c956-31d8-43ad-b28b-950a1beee24e" />
 
 <img width="566" height="237" alt="image" src="https://github.com/user-attachments/assets/1a179d40-52e5-46cd-aa71-29b7e0bb3bfb" />
 
