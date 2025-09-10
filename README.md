@@ -1,4 +1,4 @@
-<img width="572" height="53" alt="image" src="https://github.com/user-attachments/assets/396e750c-d3d7-4382-89a9-ac9c5ea85855" /><img width="800" height="571" alt="image" src="https://github.com/user-attachments/assets/b523c11b-c365-4f9e-90d5-7978187c16c8" /># Manajemen_Jadwal_Latihan_Olahraga
+# Manajemen_Jadwal_Latihan_Olahraga
 
 # Deskripsi Program
 Program manajemen jadwal latihan olahraga adalah program berbasis Java yang digunakan user untuk mengatur jadwal latihan olahraga mingguan.
