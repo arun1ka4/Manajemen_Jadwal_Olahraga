@@ -1,4 +1,4 @@
-# Manajemen_Jadwal_Latihan_Olahraga
+<img width="572" height="53" alt="image" src="https://github.com/user-attachments/assets/396e750c-d3d7-4382-89a9-ac9c5ea85855" /><img width="800" height="571" alt="image" src="https://github.com/user-attachments/assets/b523c11b-c365-4f9e-90d5-7978187c16c8" /># Manajemen_Jadwal_Latihan_Olahraga
 
 # Deskripsi Program
 Program manajemen jadwal latihan olahraga adalah program berbasis Java yang digunakan user untuk mengatur jadwal latihan olahraga mingguan.
@@ -29,11 +29,17 @@ User dapat memilih opsi menu yang diinginkan dengan menginput nomor dari opsi me
 
 <img width="537" height="242" alt="image" src="https://github.com/user-attachments/assets/9fe1c956-31d8-43ad-b28b-950a1beee24e" />
 
+Output
+
 <img width="566" height="237" alt="image" src="https://github.com/user-attachments/assets/1a179d40-52e5-46cd-aa71-29b7e0bb3bfb" />
 
 Pada opsi 1, user dapat menambahkan jadwal latihan dengan menginput jenis latihan serta hari latihan itu dilakukan. Jadwal akan disimpan ke dalam ArrayList dengan format "Hari - Jenis Latihan".  Setelah user menambah jadwal, program akan menampilkan pesan "Jadwal berhasil ditambahkan" sebagai konfirmasi.
 
 ## **Pilih menu == 2**
+
+<img width="715" height="205" alt="image" src="https://github.com/user-attachments/assets/a3e68023-f83b-414c-897f-5c4647b9d78c" />
+
+Output
 
 <img width="273" height="216" alt="image" src="https://github.com/user-attachments/assets/2295edfb-7bbd-4e12-a1a5-e604caf79bc0" />
 
@@ -44,6 +50,11 @@ Pada opsi 2, program akan memeriksa apakah ada data di dalam ArrayList. Jika ada
 Jika kosong, program akan menampilkan pesan "Belum ada jadwal latihan."
 
 ## **Pilih menu == 3**
+
+<img width="800" height="571" alt="image" src="https://github.com/user-attachments/assets/f6178b38-4878-4a8e-b597-82a6c11ce481" />
+
+Output
+
 <img width="363" height="168" alt="image" src="https://github.com/user-attachments/assets/339fc4e7-53b2-4150-8ec9-4f045e070231" />
 
 Pada opsi 3, user dapat memilih salah satu jadwal yang ingin diperbarui dengan menginput sesuai dengan nomor jadwal. Jika nomor valid, user diminta memasukkan jenis latihan dan hari latihan. Setelah user memperbarui jadwal, program akan menampilkan pesan "Jadwal berhasil diperbarui" sebagai konfirmasi.
@@ -61,6 +72,11 @@ Jika Nomor Tidak Sesuai yang di Jadwal
 <img width="342" height="122" alt="image" src="https://github.com/user-attachments/assets/d4682283-1dea-418c-a308-ddc5a96e2714" />
 
 ## **Pilih menu == 4**
+
+<img width="747" height="412" alt="image" src="https://github.com/user-attachments/assets/0bded36e-f27c-4dd8-8092-4ed7c354a71f" />
+
+Output
+
 <img width="372" height="256" alt="image" src="https://github.com/user-attachments/assets/22a06ad4-b78b-4076-8be9-24c6eede85e1" />
 
 Pada opsi 4, user dapat menghapus salah satu jadwal sesuai dengan nomor jadwal yang ditampilkan. Setelah user mwnghapus jadwal, program akan menampilkan pesan "Jadwal berhasil dihapus" sebagai konfirmasi.  
@@ -79,11 +95,15 @@ Jika nomor tidak sesuai yang di jadwal
 
 ## **Pilih menu == 5**
 
+<img width="572" height="53" alt="image" src="https://github.com/user-attachments/assets/f5140ecd-fff6-4fee-b56f-4f8257df0185" />
+
 <img width="663" height="216" alt="image" src="https://github.com/user-attachments/assets/bb5f5788-31e3-4599-b6ac-e0200d766e19" />
 
 Jika memilih opsi ini, pengulangan berhenti dan program selesai
 
 ## **Jika mengetik nomor yang tidak ada di opsi menu**
+
+<img width="522" height="75" alt="image" src="https://github.com/user-attachments/assets/7e5194b9-c523-4fc0-832a-218b2b590175" />
 
 <img width="297" height="172" alt="image" src="https://github.com/user-attachments/assets/31c4a944-4003-440d-a750-a4d48148a733" />
 
