@@ -26,7 +26,9 @@ Program akan dieksekusi mulai dari method main(). Di dalamnya dibuat ArrayList d
 
 <img width="587" height="272" alt="image" src="https://github.com/user-attachments/assets/56b59382-69cd-4feb-9e7a-bb686afbabb5" />
 
-Program masuk ke dalam perulangan do-while yang berarti menu dapat dijalankan berulang sampai syarat berhenti (while) terpenuhi.
+<img width="296" height="110" alt="image" src="https://github.com/user-attachments/assets/c50c3762-eb1c-4679-a3b7-b1acb6434251" />
+
+Program masuk ke dalam perulangan do-while yang berarti menu dapat dijalankan berulang sampai syarat berhenti (while) terpenuhi, yaitu ketika user memilih opsi 5 (pilih == 5).
 User dapat memilih opsi menu yang diinginkan dengan menginput nomor dari opsi menu tersebut.
 
 <img width="537" height="242" alt="image" src="https://github.com/user-attachments/assets/9fe1c956-31d8-43ad-b28b-950a1beee24e" />
@@ -97,6 +99,8 @@ Jika nomor tidak sesuai yang di jadwal
 
 <img width="572" height="53" alt="image" src="https://github.com/user-attachments/assets/f5140ecd-fff6-4fee-b56f-4f8257df0185" />
 
+Output
+
 <img width="663" height="216" alt="image" src="https://github.com/user-attachments/assets/bb5f5788-31e3-4599-b6ac-e0200d766e19" />
 
 Jika memilih opsi ini, pengulangan berhenti dan program selesai
@@ -105,9 +109,11 @@ Jika memilih opsi ini, pengulangan berhenti dan program selesai
 
 <img width="522" height="75" alt="image" src="https://github.com/user-attachments/assets/7e5194b9-c523-4fc0-832a-218b2b590175" />
 
+Output
+
 <img width="297" height="172" alt="image" src="https://github.com/user-attachments/assets/31c4a944-4003-440d-a750-a4d48148a733" />
 
-
+Jika user mengetik angka di luar opsi menu (1-5), program akan menampilkan pesan "Pilihan tidak valid". Setelah itu, program kembali menampilkan menu utama.
 
 
 
