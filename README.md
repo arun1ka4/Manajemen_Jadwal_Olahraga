@@ -41,7 +41,7 @@ Jika nomor tidak sesuai yang di jadwal
 
 <img width="663" height="216" alt="image" src="https://github.com/user-attachments/assets/bb5f5788-31e3-4599-b6ac-e0200d766e19" />
 
-Jika mengetik nomor yang tidak ada di opsi menu
+# **Jika mengetik nomor yang tidak ada di opsi menu*
 
 <img width="297" height="172" alt="image" src="https://github.com/user-attachments/assets/31c4a944-4003-440d-a750-a4d48148a733" />
 
