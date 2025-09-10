@@ -1,4 +1,7 @@
-# Manajemen_Jawal_Olahraga
+# Manajemen_Jadwal_Latihan_Olahraga
+
+## Deskripsi Program
+
 # **Pilih menu == 1**
 
 <img width="566" height="237" alt="image" src="https://github.com/user-attachments/assets/1a179d40-52e5-46cd-aa71-29b7e0bb3bfb" />
