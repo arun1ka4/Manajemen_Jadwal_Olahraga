@@ -1,6 +1,6 @@
 # Manajemen_Jadwal_Latihan_Olahraga
 
-## Deskripsi Program
+# Deskripsi Program
 
 # Alur Program
 
