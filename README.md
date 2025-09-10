@@ -11,20 +11,22 @@ Fitur program ini terdiri dari:
 
 # Alur Program
 
-## **Package**
+## **Class Package**
 
 <img width="321" height="67" alt="image" src="https://github.com/user-attachments/assets/94338cb7-35f8-476f-a632-9a2e7045c294" />
 
-1. ArrayList
-2. Scanner
+1. ArrayList -> Menyimpan kumpulan data yang bersifat dinamis
+2. Scanner -> Menginput data dari user
 
 <img width="572" height="102" alt="image" src="https://github.com/user-attachments/assets/92676258-9dfe-41a7-8f1a-5a731a413e5a" />
 
+Program akan dieksekusi mulai dari method main(). Di dalamnya dibuat ArrayList dengan variabel jadwalLatihan untuk menyimpan jadwal latihan.
 
 ## **Pilih menu == 1**
 
 <img width="587" height="272" alt="image" src="https://github.com/user-attachments/assets/56b59382-69cd-4feb-9e7a-bb686afbabb5" />
 
+Program masuk ke dalam perulangan do-while yang berarti menu dapat dijalankan berulang sampai syarat berhenti (while) terpenuhi.
 User dapat memilih opsi menu yang diinginkan dengan menginput nomor dari opsi menu tersebut.
 
 <img width="537" height="242" alt="image" src="https://github.com/user-attachments/assets/9fe1c956-31d8-43ad-b28b-950a1beee24e" />
@@ -43,7 +45,7 @@ Output
 
 <img width="273" height="216" alt="image" src="https://github.com/user-attachments/assets/2295edfb-7bbd-4e12-a1a5-e604caf79bc0" />
 
-Pada opsi 2, program akan memeriksa apakah ada data di dalam ArrayList. Jika ada, jadwal akan ditampilkan dalam bentuk list.
+Pada opsi 2, program akan memeriksa apakah ada data di dalam ArrayList. Pertama, program akan cek apakah jadwalLatihan kosong dengan size() == 0.Jika ada, jadwal akan ditampilkan dalam bentuk list.
 
 <img width="302" height="168" alt="image" src="https://github.com/user-attachments/assets/8a8ca8b7-c99b-4b8d-b4d0-1178c3690da7" />
 
@@ -80,8 +82,6 @@ Output
 <img width="372" height="256" alt="image" src="https://github.com/user-attachments/assets/22a06ad4-b78b-4076-8be9-24c6eede85e1" />
 
 Pada opsi 4, user dapat menghapus salah satu jadwal sesuai dengan nomor jadwal yang ditampilkan. Setelah user mwnghapus jadwal, program akan menampilkan pesan "Jadwal berhasil dihapus" sebagai konfirmasi.  
-
-Output
 
 <img width="282" height="197" alt="image" src="https://github.com/user-attachments/assets/3d5e7fe7-1e30-4899-9771-bb66d9eb397f" />
 
