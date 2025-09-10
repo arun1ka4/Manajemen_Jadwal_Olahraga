@@ -28,7 +28,7 @@ Program akan dieksekusi mulai dari method main(). Di dalamnya dibuat ArrayList d
 
 <img width="296" height="110" alt="image" src="https://github.com/user-attachments/assets/c50c3762-eb1c-4679-a3b7-b1acb6434251" />
 
-Program masuk ke dalam perulangan do-while yang berarti menu dapat dijalankan berulang sampai syarat berhenti (while) terpenuhi, yaitu ketika user memilih opsi 5 (pilih == 5).
+Program masuk ke dalam perulangan do-while yang berarti menu dapat dijalankan berulang sampai syarat berhenti (while) terpenuhi, yaitu ketika user memilih opsi 5 (pilih !=5).
 User dapat memilih opsi menu yang diinginkan dengan menginput nomor dari opsi menu tersebut.
 
 <img width="537" height="242" alt="image" src="https://github.com/user-attachments/assets/9fe1c956-31d8-43ad-b28b-950a1beee24e" />
