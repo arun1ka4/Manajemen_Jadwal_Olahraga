@@ -10,7 +10,7 @@
 
 <img width="273" height="216" alt="image" src="https://github.com/user-attachments/assets/2295edfb-7bbd-4e12-a1a5-e604caf79bc0" />
 
-# **Pilih menu == 3**
+## **Pilih menu == 3**
 <img width="363" height="168" alt="image" src="https://github.com/user-attachments/assets/339fc4e7-53b2-4150-8ec9-4f045e070231" />
 
 Output
@@ -25,7 +25,7 @@ Jika nomor tidak sesuai yang di jadwal
 
 <img width="342" height="122" alt="image" src="https://github.com/user-attachments/assets/d4682283-1dea-418c-a308-ddc5a96e2714" />
 
-# **Pilih menu == 4**
+## **Pilih menu == 4**
 <img width="372" height="256" alt="image" src="https://github.com/user-attachments/assets/22a06ad4-b78b-4076-8be9-24c6eede85e1" />
 
 Output
@@ -40,11 +40,11 @@ Jika nomor tidak sesuai yang di jadwal
 
 <img width="360" height="127" alt="image" src="https://github.com/user-attachments/assets/8a36110b-4e4e-409b-838c-b46d17642bb4" />
 
-# **Pilih menu == 5**
+## **Pilih menu == 5**
 
 <img width="663" height="216" alt="image" src="https://github.com/user-attachments/assets/bb5f5788-31e3-4599-b6ac-e0200d766e19" />
 
-# **Jika mengetik nomor yang tidak ada di opsi menu**
+## **Jika mengetik nomor yang tidak ada di opsi menu**
 
 <img width="297" height="172" alt="image" src="https://github.com/user-attachments/assets/31c4a944-4003-440d-a750-a4d48148a733" />
 
