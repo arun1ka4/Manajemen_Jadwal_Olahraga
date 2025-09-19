@@ -20,7 +20,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
         int pilih;
 
-        do { // <<< revisi: bungkus menu dalam perulangan
+        do {
             System.out.println("===JADWAL LATIHAN MINGGUAN===");
             System.out.println("1. Tambah Jadwal");
             System.out.println("2. Lihat Jadwal");
