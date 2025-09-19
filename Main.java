@@ -1,14 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.jadwallatihanolahraga;
-
-/**
- *
- * @author nitro
- */
-
 
 import java.util.ArrayList;
 import java.util.Scanner;
